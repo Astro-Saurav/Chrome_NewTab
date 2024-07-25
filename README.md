@@ -32,10 +32,6 @@ Clone this repository to your local machine or download the latest release from 
 
 
 
-![Screenshot 1](https://i.postimg.cc/w6JYypvc/chrome.png)
-
-![Screenshot 2](https://i.postimg.cc/0ksR7BKg/edge.png)
-
-![Screenshot 2](https://i.postimg.cc/bPW2fHX7/FireFox.png)
-
-![Screenshot 2](https://i.postimg.cc/MqPSg5NR/brave.png)
+![3](https://github.com/user-attachments/assets/31cfa433-7f2d-4c50-bb14-9a1de8aa8f06)
+![2](https://github.com/user-attachments/assets/8f71923f-9ee0-4182-ae47-006feb51cfc4)
+![1](https://github.com/user-attachments/assets/80de9ec7-72bd-4f87-9ccf-07595823e68b)

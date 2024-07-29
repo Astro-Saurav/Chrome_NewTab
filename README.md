@@ -10,7 +10,7 @@
 
 ### Download
 
-Clone this repository to your local machine or download the latest release from [here](https://github.com/Astro-Saurav/Chrome_NewTab.git).
+Clone this repository to your local machine or download the latest release from [here](https://github.com/Astro-Saurav/Chrome_NewTab/releases/tag/v.1).
 
 ### Installation
 

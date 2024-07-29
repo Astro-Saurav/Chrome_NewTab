@@ -82,13 +82,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 });
-
-// Function to apply the selected theme
-// let themeButton = document.getElementById("themeButton")
-// themeButton.onclick = () => {
-//     document.getElementById("colorsContainer").classList.toggle("showColorPlate")
-// }
-
 const radioButtons = document.querySelectorAll('.colorPlate');
 const themeStorageKey = 'selectedTheme';
 
